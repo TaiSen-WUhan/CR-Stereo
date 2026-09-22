@@ -1,0 +1,1 @@
+CR-Stereo improves stereo matching in ill-posed regions by combining CA-KVA for cross-window context aggregation with GPC-Refine for geometry-photometry guided residual correction, achieving better accuracy and cross-domain generalization than BridgeDepth.
